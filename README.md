@@ -1,2 +1,3 @@
-# happylittleday.github.io
-Public support, privacy policy and app-ads.txt for 10001 Offline Games
+# 10001 Offline Games — Public support
+
+Public legal/support documents and authorized ad seller information only. The application source remains private.
