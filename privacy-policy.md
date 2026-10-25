@@ -1,4 +1,4 @@
-# 10001 Offline Games — Privacy Policy
+# Offline Games10000 — Privacy Policy
 
 Operator: SITETYPE LIMITED (Sekai Web)  
 Contact: info@sekaiweb.com  
@@ -8,7 +8,7 @@ Package: `com.sekaiweb.offlinegames` · Advertising edition: 1.183.0 (358).
 
 ## English
 
-This Privacy Policy explains how SITETYPE LIMITED (Sekai Web), the operator of 10001 Offline Games, also displayed as 10001 GAMES (the App), handles information. The free Android edition supports advertisements and an optional one-time purchase to remove advertisements. Game content can be played offline. Advertising, purchases and purchase restoration use an internet connection. The advertising and purchase sections apply to the 1.183.0 (358) advertising edition. Earlier offline editions and browser previews do not load these services.
+This Privacy Policy explains how SITETYPE LIMITED (Sekai Web), the operator of Offline Games10000, also displayed as 10001 GAMES (the App), handles information. The free Android edition supports advertisements and an optional one-time purchase to remove advertisements. Game content can be played offline. Advertising, purchases and purchase restoration use an internet connection. The advertising and purchase sections apply to the 1.183.0 (358) advertising edition. Earlier offline editions and browser previews do not load these services.
 
 - Game records and settings are stored on your device. This offline edition does not automatically upload gameplay records to our servers and does not require an account.
 - The advertising edition uses Google AdMob, the Google User Messaging Platform and Google Play Billing. Ads are restricted and not personalised. Google may process device, network, advertising interaction and diagnostic information as explained below. No separate gameplay analytics service is included.
@@ -100,7 +100,7 @@ Material changes to advertising, purchases, recipients or information handling r
 
 ## 日本語
 
-このプライバシーポリシーは、10001 Offline Games（10001 GAMES（本アプリ）とも表示）の運営者であるSITETYPE LIMITED（セカイウェブ）の情報の取り扱いについて説明するものです。無料の Android 版では広告がサポートされており、オプションで広告を削除するための 1 回限りの購入もサポートされています。ゲームコンテンツはオフラインでもプレイ可能です。広告、購入、購入の復元にはインターネット接続が使用されます。広告セクションと購入セクションは、1.183.0 (358) 広告エディションに適用されます。以前のオフライン エディションとブラウザ プレビューでは、これらのサービスは読み込まれません。
+このプライバシーポリシーは、Offline Games10000（10001 GAMES（本アプリ）とも表示）の運営者であるSITETYPE LIMITED（セカイウェブ）の情報の取り扱いについて説明するものです。無料の Android 版では広告がサポートされており、オプションで広告を削除するための 1 回限りの購入もサポートされています。ゲームコンテンツはオフラインでもプレイ可能です。広告、購入、購入の復元にはインターネット接続が使用されます。広告セクションと購入セクションは、1.183.0 (358) 広告エディションに適用されます。以前のオフライン エディションとブラウザ プレビューでは、これらのサービスは読み込まれません。
 
 - ゲームの記録と設定はデバイスに保存されます。このオフライン版では、ゲームプレイ記録がサーバーに自動的にアップロードされず、アカウントも必要ありません。
 - 広告エディションでは、Google AdMob、Google ユーザー メッセージング プラットフォーム、Google Play Billing を使用します。広告は制限されており、パーソナライズされていません。 Google は、以下で説明するように、デバイス、ネットワーク、広告インタラクション、診断情報を処理する場合があります。個別のゲームプレイ分析サービスは含まれていません。
@@ -192,7 +192,7 @@ info@sekaiweb.com に電子メールを送信した場合、当社はあなた�
 
 ## Português
 
-Esta Política de Privacidade explica como a SITETYPE LIMITED (Sekai Web), operadora da 10001 Offline Games, também exibida como 10001 GAMES (o Aplicativo), trata as informações. A edição gratuita do Android oferece suporte a anúncios e uma compra única opcional para remover anúncios. O conteúdo do jogo pode ser jogado offline. Publicidade, compras e restauração de compras utilizam conexão com a internet. As seções de publicidade e compra aplicam-se à edição publicitária 1.183.0 (358). As edições offline anteriores e as visualizações do navegador não carregam esses serviços.
+Esta Política de Privacidade explica como a SITETYPE LIMITED (Sekai Web), operadora da Offline Games10000, também exibida como 10001 GAMES (o Aplicativo), trata as informações. A edição gratuita do Android oferece suporte a anúncios e uma compra única opcional para remover anúncios. O conteúdo do jogo pode ser jogado offline. Publicidade, compras e restauração de compras utilizam conexão com a internet. As seções de publicidade e compra aplicam-se à edição publicitária 1.183.0 (358). As edições offline anteriores e as visualizações do navegador não carregam esses serviços.
 
 - Os registros e configurações do jogo são armazenados no seu dispositivo. Esta edição offline não carrega automaticamente registros de jogo para nossos servidores e não requer uma conta.
 - A edição publicitária usa Google AdMob, a plataforma de mensagens do usuário do Google e o Google Play Billing. Os anúncios são restritos e não personalizados. O Google pode processar informações de dispositivo, rede, interação publicitária e diagnóstico conforme explicado abaixo. Nenhum serviço separado de análise de jogo está incluído.
@@ -284,7 +284,7 @@ Alterações materiais em publicidade, compras, destinatários ou tratamento de 
 
 ## Deutsch
 
-In dieser Datenschutzrichtlinie wird erläutert, wie SITETYPE LIMITED (Sekai Web), der Betreiber von 10001 Offline Games, auch als 10001 GAMES (die App) bezeichnet, mit Informationen umgeht. Die kostenlose Android-Edition unterstützt Werbung und einen optionalen einmaligen Kauf zum Entfernen von Werbung. Spielinhalte können offline gespielt werden. Werbung, Käufe und Kaufwiederherstellung nutzen eine Internetverbindung. Die Abschnitte Werbung und Kauf gelten für die Anzeigenausgabe 1.183.0 (358). Frühere Offline-Editionen und Browservorschauen laden diese Dienste nicht.
+In dieser Datenschutzrichtlinie wird erläutert, wie SITETYPE LIMITED (Sekai Web), der Betreiber von Offline Games10000, auch als 10001 GAMES (die App) bezeichnet, mit Informationen umgeht. Die kostenlose Android-Edition unterstützt Werbung und einen optionalen einmaligen Kauf zum Entfernen von Werbung. Spielinhalte können offline gespielt werden. Werbung, Käufe und Kaufwiederherstellung nutzen eine Internetverbindung. Die Abschnitte Werbung und Kauf gelten für die Anzeigenausgabe 1.183.0 (358). Frühere Offline-Editionen und Browservorschauen laden diese Dienste nicht.
 
 - Spielaufzeichnungen und Einstellungen werden auf Ihrem Gerät gespeichert. Diese Offline-Edition lädt Spielaufzeichnungen nicht automatisch auf unsere Server hoch und erfordert kein Konto.
 - Die Werbeausgabe nutzt Google AdMob, die Google User Messaging Platform und Google Play Billing. Anzeigen sind eingeschränkt und nicht personalisiert. Google kann Geräte-, Netzwerk-, Werbeinteraktions- und Diagnoseinformationen wie unten erläutert verarbeiten. Es ist kein separater Gameplay-Analysedienst enthalten.
@@ -376,7 +376,7 @@ Wesentliche Änderungen an Werbung, Käufen, Empfängern oder dem Umgang mit Inf
 
 ## Italiano
 
-La presente Informativa sulla privacy spiega come SITETYPE LIMITED (Sekai Web), l'operatore di 10001 Offline Games, visualizzato anche come 10001 GAMES (l'App), gestisce le informazioni. L'edizione Android gratuita supporta la pubblicità e un acquisto una tantum opzionale per rimuovere la pubblicità. I contenuti del gioco possono essere riprodotti offline. La pubblicità, gli acquisti e il ripristino degli acquisti utilizzano una connessione Internet. Le sezioni pubblicità e acquisto si riferiscono all'edizione pubblicitaria 1.183.0 (358). Le versioni offline precedenti e le anteprime del browser non caricano questi servizi.
+La presente Informativa sulla privacy spiega come SITETYPE LIMITED (Sekai Web), l'operatore di Offline Games10000, visualizzato anche come 10001 GAMES (l'App), gestisce le informazioni. L'edizione Android gratuita supporta la pubblicità e un acquisto una tantum opzionale per rimuovere la pubblicità. I contenuti del gioco possono essere riprodotti offline. La pubblicità, gli acquisti e il ripristino degli acquisti utilizzano una connessione Internet. Le sezioni pubblicità e acquisto si riferiscono all'edizione pubblicitaria 1.183.0 (358). Le versioni offline precedenti e le anteprime del browser non caricano questi servizi.
 
 - I record e le impostazioni del gioco vengono memorizzati sul tuo dispositivo. Questa edizione offline non carica automaticamente i record di gioco sui nostri server e non richiede un account.
 - L'edizione pubblicitaria utilizza Google AdMob, la piattaforma di messaggistica utente di Google e la fatturazione di Google Play. Gli annunci sono limitati e non personalizzati. Google può elaborare informazioni su dispositivo, rete, interazioni pubblicitarie e diagnostiche come spiegato di seguito. Non è incluso alcun servizio separato di analisi del gameplay.
@@ -560,7 +560,7 @@ Los cambios materiales en la publicidad, las compras, los destinatarios o el man
 
 ## Français
 
-Cette politique de confidentialité explique comment SITETYPE LIMITED (Sekai Web), l'opérateur de 10001 Offline Games, également affiché sous le nom de 10001 GAMES (l'application), traite les informations. L'édition Android gratuite prend en charge les publicités et un achat unique facultatif pour supprimer les publicités. Le contenu du jeu peut être joué hors ligne. La publicité, les achats et la restauration des achats utilisent une connexion Internet. Les sections publicité et achat s'appliquent à l'édition publicitaire 1.183.0 (358). Les éditions hors ligne antérieures et les aperçus du navigateur ne chargent pas ces services.
+Cette politique de confidentialité explique comment SITETYPE LIMITED (Sekai Web), l'opérateur de Offline Games10000, également affiché sous le nom de 10001 GAMES (l'application), traite les informations. L'édition Android gratuite prend en charge les publicités et un achat unique facultatif pour supprimer les publicités. Le contenu du jeu peut être joué hors ligne. La publicité, les achats et la restauration des achats utilisent une connexion Internet. Les sections publicité et achat s'appliquent à l'édition publicitaire 1.183.0 (358). Les éditions hors ligne antérieures et les aperçus du navigateur ne chargent pas ces services.
 
 - Les enregistrements et paramètres de jeu sont stockés sur votre appareil. Cette édition hors ligne ne télécharge pas automatiquement les enregistrements de jeu sur nos serveurs et ne nécessite pas de compte.
 - L'édition publicitaire utilise Google AdMob, la plateforme de messagerie utilisateur de Google et Google Play Billing. Les annonces sont restreintes et non personnalisées. Google peut traiter les informations relatives aux appareils, au réseau, aux interactions publicitaires et aux diagnostics comme expliqué ci-dessous. Aucun service d'analyse de gameplay distinct n'est inclus.
@@ -652,7 +652,7 @@ Les modifications importantes apportées à la publicité, aux achats, aux desti
 
 ## Русский
 
-В настоящей Политике конфиденциальности объясняется, как SITETYPE LIMITED (Sekai Web), оператор 10001 Offline Games, также представленного как 10001 GAMES (Приложение), обрабатывает информацию. Бесплатная версия Android поддерживает рекламу и дополнительную разовую покупку для удаления рекламы. В игровой контент можно играть в автономном режиме. Реклама, покупки и восстановление покупок используют подключение к Интернету. Разделы «Реклама» и «Покупки» относятся к рекламной версии 1.183.0 (358). Более ранние автономные версии и предварительные версии браузера не загружают эти службы.
+В настоящей Политике конфиденциальности объясняется, как SITETYPE LIMITED (Sekai Web), оператор Offline Games10000, также представленного как 10001 GAMES (Приложение), обрабатывает информацию. Бесплатная версия Android поддерживает рекламу и дополнительную разовую покупку для удаления рекламы. В игровой контент можно играть в автономном режиме. Реклама, покупки и восстановление покупок используют подключение к Интернету. Разделы «Реклама» и «Покупки» относятся к рекламной версии 1.183.0 (358). Более ранние автономные версии и предварительные версии браузера не загружают эти службы.
 
 - Записи игр и настройки хранятся на вашем устройстве. Эта офлайн-версия не загружает автоматически записи игрового процесса на наши серверы и не требует учетной записи.
 - Рекламная версия использует Google AdMob, платформу обмена сообщениями пользователей Google и биллинг Google Play. Реклама ограничена и не персонализирована. Google может обрабатывать информацию об устройстве, сети, рекламном взаимодействии и диагностическую информацию, как описано ниже. Никакой отдельной службы аналитики игрового процесса не включено.
@@ -836,7 +836,7 @@ Perubahan material pada periklanan, pembelian, penerima, atau penanganan informa
 
 ## 中文
 
-本隐私政策解释了 10001 Offline Games（也称为 10001 GAMES（应用程序））的运营商 SITETYPE LIMITED（Sekai Web）如何处理信息。免费的 Android 版本支持广告，并且可以选择一次性购买以删除广告。游戏内容可以离线玩。广告、购买和购买恢复使用互联网连接。广告和购买部分适用于 1.183.0 (358) 广告版。早期的离线版本和浏览器预览不会加载这些服务。
+本隐私政策解释了 Offline Games10000（也称为 10001 GAMES（应用程序））的运营商 SITETYPE LIMITED（Sekai Web）如何处理信息。免费的 Android 版本支持广告，并且可以选择一次性购买以删除广告。游戏内容可以离线玩。广告、购买和购买恢复使用互联网连接。广告和购买部分适用于 1.183.0 (358) 广告版。早期的离线版本和浏览器预览不会加载这些服务。
 
 - 游戏记录和设置存储在您的设备上。此离线版本不会自动将游戏记录上传到我们的服务器，并且不需要帐户。
 - 广告版使用 Google AdMob、Google User Messaging Platform 和 Google Play Billing。广告受到限制且非个性化。 Google 可能会处理设备、网络、广告互动和诊断信息，如下所述。不包含单独的游戏分析服务。
@@ -928,7 +928,7 @@ Google Play 和操作系统可能会根据自己的政策和您的设置独立�
 
 ## 한국어
 
-본 개인정보 보호정책은 10001 Offline Games(10001 GAMES(앱)로도 표시됨)의 운영업체인 SITETYPE LIMITED(Sekai Web)가 정보를 처리하는 방법을 설명합니다. 무료 Android 버전은 광고를 지원하며 선택적인 일회성 구매를 통해 광고를 제거할 수 있습니다. 게임 콘텐츠를 오프라인으로 플레이할 수 있습니다. 광고, 구매, 구매 복원은 인터넷 연결을 사용합니다. 광고 및 구매 섹션은 1.183.0 (358) 광고 에디션에 적용됩니다. 이전 오프라인 버전과 브라우저 미리보기에서는 이러한 서비스를 로드하지 않습니다.
+본 개인정보 보호정책은 Offline Games10000(10001 GAMES(앱)로도 표시됨)의 운영업체인 SITETYPE LIMITED(Sekai Web)가 정보를 처리하는 방법을 설명합니다. 무료 Android 버전은 광고를 지원하며 선택적인 일회성 구매를 통해 광고를 제거할 수 있습니다. 게임 콘텐츠를 오프라인으로 플레이할 수 있습니다. 광고, 구매, 구매 복원은 인터넷 연결을 사용합니다. 광고 및 구매 섹션은 1.183.0 (358) 광고 에디션에 적용됩니다. 이전 오프라인 버전과 브라우저 미리보기에서는 이러한 서비스를 로드하지 않습니다.
 
 - 게임 기록 및 설정은 귀하의 장치에 저장됩니다. 이 오프라인 버전은 게임 플레이 기록을 서버에 자동으로 업로드하지 않으며 계정이 필요하지 않습니다.
 - 광고 버전은 Google AdMob, Google 사용자 메시징 플랫폼 및 Google Play 결제를 사용합니다. 광고는 제한되어 있으며 개인화되지 않습니다. Google은 아래에 설명된 대로 기기, 네트워크, 광고 상호작용 및 진단 정보를 처리할 수 있습니다. 별도의 게임플레이 분석 서비스는 포함되어 있지 않습니다.
